@@ -1,5 +1,6 @@
 JSkills
 =======
+[![Build Status](https://travis-ci.org/nsp/JSkills.svg?branch=master)](https://travis-ci.org/nsp/JSkills)
 
 A detailed implementation of the TrueSkill algorithm in Java.
 
@@ -8,7 +9,7 @@ Usage
 
 Install this package to your local Maven repository
 
-    maven install
+    mvn install
 
 and define the dependency in your project as following
 
